@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\public",
+    "\\public\\css",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\data",
+    "\\src\\scripts"
   ],
+  "SelectedNode": "\\src\\scripts\\CreateMenuLinksTable.js",
   "PreviewInSolutionExplorer": false
 }
